@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Text.RegularExpressions;
-
 // Shehu Yipmong Said BU/22C/IT/7533
 public class Program
 {
